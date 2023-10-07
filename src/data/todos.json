@@ -1,0 +1,34 @@
+{
+  "todo": [
+    {
+      "title": "Learn react",
+      "id": "1",
+      "complete": false,
+      "date": "12.23.2023"
+    },
+    {
+      "title": "Learn css",
+      "id": "2",
+      "complete": false,
+      "date": "12.23.2023"
+    },
+    {
+      "title": "Learn javascript",
+      "id": "3",
+      "complete": false,
+      "date": "12.23.2023"
+    },
+    {
+      "title": "Hello",
+      "date": "2023-10-11",
+      "complete": false,
+      "id": "1696704783950"
+    },
+    {
+      "title": "Sultanbekov Bektur Baatyrbekovich",
+      "date": "2003-01-11",
+      "complete": false,
+      "id": "1696704802493"
+    }
+  ]
+}
